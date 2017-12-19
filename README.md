@@ -1,2 +1,5 @@
 # Python
-daily_python_script
+## python_spider:
+* BeautifulSoup
+* Scripy
+* urllib/urllib2
